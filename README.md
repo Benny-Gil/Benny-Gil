@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: Machine Learning and Cloud Computing
 - 💼 I’m currently studying at: Saint Louis University
 - 👯 I’m looking to collaborate on: Open Source Projects
-- 📫 How to reach me: benny.gil999@gmai.com
+- 📫 How to reach me: benny.gil999@gmail.com
 - 🦊 My GitLab Profile: https://gitlab.com/2233116
 
 ## Languages and Tools
