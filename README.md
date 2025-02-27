@@ -35,6 +35,11 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-007ACC?style=for-the-badge&logo=google&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-CC342D?style=for-the-badge&logo=prolog&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-000000?style=for-the-badge&logo=linear&logoColor=white)
+
 
 ## GitHub Stats
 
