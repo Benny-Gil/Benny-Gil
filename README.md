@@ -32,6 +32,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-007ACC?style=for-the-badge&logo=google&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-CC342D?style=for-the-badge&logo=prolog&logoColor=white)
 
 ## GitHub Stats
 
