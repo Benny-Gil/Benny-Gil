@@ -7,3 +7,8 @@
 - 💼 I’m currently studying at: Saint Louis University
 - 📫 How to reach me: benny.gil999@gmail.com
 - 🦊 My GitLab Profile: https://gitlab.com/2233116
+
+
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benny-gil&layout=compact&theme=radical&langs_count=20&card_width=350" alt="Top Langs">
+</div>
