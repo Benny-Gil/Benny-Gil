@@ -10,5 +10,6 @@
 
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benny-gil&layout=compact&theme=radical&langs_count=20&card_width=350" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=benny-gil&layout=compact&theme=radical&card_width=400" height=200>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benny-gil&layout=compact&theme=radical&langs_count=20&card_width=400" alt="Top Langs" height=200>
 </div>
