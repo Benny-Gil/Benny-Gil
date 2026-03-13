@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning: Natural Language Processing and Data Mining
+- 🌱 I’m currently learning: Distributed Computing and Large Language Models.
 - 💼 I’m currently studying at: Saint Louis University, Baguio City
 - 📫 How to reach me: benny.gil999@gmail.com
 - 🦊 My GitLab Profile: https://gitlab.com/Benny-Gil
